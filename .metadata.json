@@ -1,0 +1,14 @@
+[
+  {
+    "package": "noisyCE2",
+    "oncran": true
+  },
+  {
+    "package": "plot3logit",
+    "oncran": true
+  },
+  {
+    "package": "tukeyGH",
+    "oncran": true
+  }
+]
