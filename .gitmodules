@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "noisyCE2"]
 	path = noisyCE2
 	url = https://github.com/f-santi/noisyce2
-	shallow = true
-	registered = true
 [submodule "plot3logit"]
 	path = plot3logit
 	url = https://github.com/f-santi/plot3logit
-	shallow = true
-	registered = true
 [submodule "tukeyGH"]
 	path = tukeyGH
 	url = https://github.com/f-santi/tukeygh
-	shallow = true
-	registered = true
