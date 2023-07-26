@@ -5,6 +5,3 @@
 [submodule "noisyCE2"]
 	path = noisyCE2
 	url = https://github.com/f-santi/noisyce2
-[submodule "tukeyGH"]
-	path = tukeyGH
-	url = https://github.com/f-santi/tukeygh
